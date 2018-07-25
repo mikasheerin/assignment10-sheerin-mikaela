@@ -20,27 +20,31 @@
   <form name="assignment10" method="" action="">
 
     <div class="text">
-      <label for="name" class: "label_input_wrap">Name:
+      <label for="name" class="label_input_wrap">Name:
       </label>
-      <input type="text" name="name" id="name" />
+      <input type="text" name="name" placeholder="Your name" id="name" required/>
     </div>
 
     <div class="email">
-      <label for="email" class: "label_input_wrap">Email:
+      <label for="email" class="label_input_wrap">Email:
       </label>
-      <input type="email" name="email" id="email" />
+      <input type="email" name="email" placeholder="username@domain.com" id="email" required/>
     </div>
 
     <div class="telephone">
-      <label for="telephone" class: "label_input_wrap">Telephone:
+      <label for="telephone" class="label_input_wrap">Telephone:
       </label>
-      <input type="tel" name="telephone" id="telephone" />
+      <input type="tel" name="telephone" placeholder="555-555-5555" id="telephone" />
     </div>
 
     <div class="textarea">
-      <label for="textarea" class: "label_input_wrap">Message:
+      <label for="textarea" class="label_input_wrap">Message:
       </label>
-      <textarea type="textarea" maxlength="1000" cols="55" rows="15"></textarea>
+      <textarea type="textarea" maxlength="1000" cols="55" rows="15" placeholder="Your message" required></textarea>
+    </div>
+
+    <div class="submit">
+      <input type="submit" />
     </div>
 
 
