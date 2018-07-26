@@ -1,7 +1,7 @@
-# MMC5277 - Assignment 9
+# MMC5277 - Assignment 10
 
 ## Resources
-<a href="https://magiccityhippies.com/"> Magic City Hippies' Website </a>
+No outside resources used.
 
 ## Comments
 
