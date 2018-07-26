@@ -7,7 +7,7 @@ require('form/form.class.php');
 $form = new Form();
 $form->processForm(
 
-	'mikaelasheerin.com' // Put you mail domain here
+	'gmail.com' // Put you mail domain here
 	,
 	'Web Design Principles 2018' // Put your site name / form name here
 	,
