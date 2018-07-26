@@ -12,6 +12,7 @@
     background-color: white;
     margin: 10px;
     padding: 20px;
+		width: 50%;
   }
 </style>
 
