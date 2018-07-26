@@ -8,7 +8,7 @@
 
   div {
     background-color: white;
-    margin: 0 auto;
+    margin: 50px auto;
     padding: 20px;
     width: 50%;
     border-color: #3F94A8;
