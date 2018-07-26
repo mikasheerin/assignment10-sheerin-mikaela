@@ -1,6 +1,7 @@
 <style type="text/css">
   body {
-    background: url(../images/pool.jpg) cover no-repeat;
+    background: url(../images/pool.jpg) no-repeat;
+    background-size: cover;
     font: 18px 'Muli', sans-serif;
     color: #3F94A8;
   }
