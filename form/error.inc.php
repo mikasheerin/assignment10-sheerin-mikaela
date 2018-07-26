@@ -1,10 +1,7 @@
 <style type="text/css">
   body {
-    background-image: url(../images/pool.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    font-family: 'Muli', sans-serif;
-    font-size: 18px;
+    background: url(../images/pool.jpg) cover no-repeat;
+    font: 18px 'Muli', sans-serif;
     color: #3F94A8;
   }
 
