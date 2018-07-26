@@ -17,5 +17,5 @@
 
 <div>
   <h1>Thank you for your inquiry</h1>
-  <p>Thanks for your interest. we have received your message, and we will be in touch shortly.</p>
+  <p>Thanks for your interest. We have received your message, and we will be in touch shortly.</p>
 </div>
